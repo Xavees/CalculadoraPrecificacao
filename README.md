@@ -7,7 +7,7 @@ A aplicação permite informar o preço por litro da **gasolina** e do **diesel*
 ## 🚀 Funcionalidades
 
 * Inserção do preço da gasolina por litro;
-* Inserção do preço do alcool por litro;
+* Inserção do preço do diesel por litro;
 * Comparação dos valores;
 * Exibição do combustível mais vantajoso;
 * Interface simples e fácil de utilizar.
