@@ -38,4 +38,4 @@ Projeto concluído para fins de estudo e prática.
 
 ---
 
-Desenvolvido por 💻 **Luis Fernando/ Xavees **.
+Desenvolvido por 💻 **Luis Fernando/ Xavees**.
